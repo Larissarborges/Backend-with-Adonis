@@ -1,0 +1,8 @@
+{
+  "date": "The {{field}} should be a valid date",
+  "date_format": "The {{field}} should be a valid date according to given format {{argument.0}}.",
+  "email": "The {{field}} should be a valid email address",
+  "required": "The {{field}} is required.",
+  "unique": "The {{field}} has already been taken by someone else.",
+  "url": "The {{field}} should be a valid url."
+}
